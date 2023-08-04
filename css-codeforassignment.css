@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Maison Neue","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 100%;
+    font-weight: 400;
+
+}
+#header{
+
+    background-color: white;
+    padding-bottom: 32px;
+    display:inline-flexbox;
+    position:relative;
+    padding: 0px 9px 0px 9px;
+    text-align: center;
+    display:flex;
+    justify-content: space-between; 
+    align-items: center;
+    flex-grow: 1;
+    font-weight: 600;
+    color:#212432;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    height: 110px;
+    -webkit-box-align: end;
+    line-height: 1em;
+    text-decoration: none;
+
+        
+        
+
+
+    }
+
+#Trainers{
+        display: flex;
+        background-color: rgb(11, 186, 199);
+        padding: 45px;
+
+    }
+#passes{
+        display: flex;
+ 
+    }
+#programs{
+        display: flex;
+        background-color: rgb(232, 225, 233);
+        padding: 45px;
+
+    }
+#Merch{
+        display: flex;
+        background-color: rgb(198, 255, 255);
+        padding: 45px;
+
+    }
+#wellness{
+        display: flex;
+        background-color: rgb(24, 21, 21);
+        padding: 45px;
+
+    }
+#Recipes{
+        display: flex;
+        background-color: rgb(230, 204, 240);
+        padding: 45px;
+        box-sizing: content-box;
+
+    }
+#community{
+        display: flex;
+        background-image:url(https://cloudfront.fitnessblender.com/assets/img/homepage/community-1440.webp);
+        width:auto;
+
+
+        
+    
+
+
+    }
+#low-impact{
+        display: flex;
+        padding: 55px;
+
+    }
+#blend{
+        display: flex;
+        padding: 55px;
+
+#fb30{
+        display: flex;
+        padding: 45px;
+
+    }
+#bodyweight{
+        display: flex;
+        padding: 55px;
+       
+    }
+#footer{
+        display: flexbox;
+    
